@@ -1,6 +1,5 @@
 'use strict';
 
-const Catalog = require('./lib/schemaCatalog.js');
+const CatalogSchema = require('./lib/schemaCatalog.js');
 
-module.exports = { Catalog };
-
+module.exports = { CatalogSchema };
